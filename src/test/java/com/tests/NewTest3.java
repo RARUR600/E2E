@@ -12,7 +12,7 @@ import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class NewTest1 {
+public class NewTest3 {
 	WebDriver driver;
 	@Test
 	public void launchChrome()
