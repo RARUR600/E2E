@@ -1,0 +1,1 @@
+This is a new file added to Git(Local). Need to verify if this is visible on server
