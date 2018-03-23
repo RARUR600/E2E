@@ -17,6 +17,7 @@ public class NewTest3 {
 	@Test
 	public void launchChrome()
 	{
+		System.setProperty("webdriver.chrome.driver", "src/test/resources")
 		driver=new ChromeDriver();
 		driver.get("http://newtours.demoaut.com/");
 		driver.manage().window().maximize();
